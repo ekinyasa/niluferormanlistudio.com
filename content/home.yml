@@ -1,0 +1,44 @@
+# home.yml
+# Home page content
+# Nilüfer Ormanlı Studio LLC
+
+meta:
+  title: "Home"
+  description: "Official corporate website of Nilüfer Ormanlı Studio LLC, a Delaware single-member company operating in music and media-related activities."
+
+sections:
+
+  - type: "hero"
+    heading: "Nilüfer Ormanlı Studio LLC"
+    subheading: "A Delaware single-member LLC engaged in music and media-related activities."
+
+  - type: "summary"
+    label: "Entity Overview"
+    items:
+      - label: "Legal Name"
+        value: "Nilüfer Ormanlı Studio LLC"
+      - label: "Entity Type"
+        value: "Limited Liability Company (LLC)"
+      - label: "State of Formation"
+        value: "Delaware"
+      - label: "Year Established"
+        value: "2026"
+      - label: "Business Classification"
+        value: "Single-member LLC"
+        # Example: "Single-member LLC / Multi-member LLC"
+      - label: "Primary Jurisdiction"
+        value: "United States"
+        # Example: "United States"
+
+  - type: "statement"
+    body: "Nilüfer Ormanlı Studio LLC is a single-member limited liability company formed in Delaware in 2026. The company engages in music and other media-related activities and is managed by its sole member."
+
+  - type: "link"
+    label: "Visit Official Website"
+    url: "niluferormanli.com"
+    external: true
+
+
+
+
+  

@@ -1,0 +1,32 @@
+# legal/index.yml
+# Legal index page content
+# Nilüfer Ormanlı Studio LLC
+
+meta:
+  title: "Legal"
+  description: "Legal documents and policies for Nilüfer Ormanlı Studio LLC."
+
+sections:
+
+  - type: "page-header"
+    heading: "Legal"
+    subheading: "Governing documents and policies for Nilüfer Ormanlı Studio LLC."
+
+  - type: "legal-nav"
+    label: "Documents"
+    items:
+      - label: "Privacy Policy"
+        url: "/legal/privacy-policy/"
+      - label: "Terms of Use"
+        url: "/legal/terms-of-use/"
+      - label: "Cookie Notice"
+        url: "/legal/cookie-notice/"
+      - label: "Intellectual Property Notice"
+        url: "/legal/ip-notice/"
+
+  - type: "text-block"
+    label: "Governing Law"
+    body: |
+      All documents listed on this page are governed by the laws of the State of
+      Delaware and applicable federal law of the United States of America.
+      For questions regarding any legal document, contact hello@niluferormanli.studio.

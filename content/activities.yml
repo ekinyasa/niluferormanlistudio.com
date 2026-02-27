@@ -1,0 +1,44 @@
+# activities.yml
+# Business Activities page content
+# Nilüfer Ormanlı Studio LLC
+
+meta:
+  title: "Business Activities"
+  description: "Overview of music and media-related operations conducted by Nilüfer Ormanlı Studio LLC, including production and intellectual property management."
+
+sections:
+
+  - type: "page-header"
+    heading: "Business Activities"
+
+  - type: "text-block"
+    label: "Scope of Operations"
+    body: |
+      "The company engages in music and other media-related activities. Operations include creative production, intellectual property management, and related commercial activities."
+
+  - type: "activity-list"
+    label: "Primary Activities"
+    items:
+      - heading: "Music Production"
+        description: "Creation, recording, and production of original musical works and related audio content."
+
+      - heading: "Media Development"
+        description: "Development of audio-visual and digital media projects, including distribution and licensing."
+
+      - heading: "Intellectual Property"
+        description: "Ownership, management, licensing, and commercialization of creative works and associated rights."
+
+        # Add or remove activity items as needed.
+        # Each item: heading (short, 2–5 words) + description (1–2 sentences, factual)
+
+  - type: "definition-list"
+    label: "Classification"
+    items:
+      - term: "NAICS Code"
+        definition: "711510"
+        # North American Industry Classification System code
+      - term: "SIC Code"
+        definition: "7929"
+        # Standard Industrial Classification code (if applicable)
+      - term: "Business Category"
+        definition: "Music and Media Services"

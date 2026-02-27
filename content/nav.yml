@@ -1,0 +1,35 @@
+# nav.yml
+# Navigation and site-level configuration
+# Nilüfer Ormanlı Studio LLC
+
+site:
+  name: "Nilüfer Ormanlı Studio LLC"
+  tagline: "A Delaware single-member LLC engaged in music and media-related activities."
+  base_url: "https://niluferormanli.com"                 # e.g. 
+
+navigation:
+  - label: "Home"
+    url: "/"
+    id: "home"
+  - label: "About"
+    url: "/about/"
+    id: "about"
+  - label: "Activities"
+    url: "/activities/"
+    id: "activities"
+  - label: "Management"
+    url: "/management/"
+    id: "management"
+  - label: "Legal"
+    url: "/legal/"
+    id: "legal"
+  - label: "Contact"
+    url: "/contact/"
+    id: "contact"
+
+footer:
+  entity_name: "Nilüfer Ormanlı Studio LLC"
+  state: "Delaware"       # e.g. Delaware, Wyoming, New York
+  business_email: "hello@niluferormanli.studio"              # e.g. info@niluferormanli.com
+  copyright_year: "2026"              # e.g. 2024
+  state_of_registration: "Delaware"

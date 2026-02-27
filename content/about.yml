@@ -1,0 +1,71 @@
+# about.yml
+# About page content
+# Nilüfer Ormanlı Studio LLC
+
+
+COMPANY_BACKGROUND_TEXT: >
+  
+
+STATE_OF_FORMATION: "Delaware"
+DATE_OF_FORMATION: "To be updated upon confirmation"
+EIN_OR_BUSINESS_ID: "Not publicly disclosed"
+REGISTERED_AGENT_NAME: "To be updated upon confirmation"
+REGISTERED_OFFICE_ADDRESS: "131 Continental Dr Suite 305, Newark, DE 19713, United States"
+
+OPERATING_NAME_OR_DBA: "Same as legal name"
+PRINCIPAL_PLACE_OF_BUSINESS: "131 Continental Dr Suite 305, Newark, DE 19713, United States"
+BUSINESS_STATUS: "Active"
+FISCAL_YEAR_END: "December 31"
+
+meta:
+  title: "About"
+  description: "Corporate background and registration details of Nilüfer Ormanlı Studio LLC, a Delaware limited liability company formed in 2026."
+
+sections:
+
+  - type: "page-header"
+    heading: "About"
+
+  - type: "text-block"
+    label: "Company Background"
+    body: |
+      "Nilüfer Ormanlı Studio LLC is a Delaware limited liability company formed in 2026.
+      The company operates in the field of music and other media-related activities.
+      It is established to manage creative production, intellectual property, and related business operations.
+      The company is solely owned and managed by its founding member."
+     
+
+  - type: "definition-list"
+    label: "Registration Details"
+    items:
+      - term: "Legal Entity Name"
+        definition: "Nilüfer Ormanlı Studio LLC"
+      - term: "Entity Type"
+        definition: "Limited Liability Company"
+      - term: "State of Formation"
+        definition: "Delaware"
+      - term: "Date of Formation"
+        definition: "To be updated upon confirmation"
+        # Format: Month DD, YYYY
+      - term: "EIN / Business ID"
+        definition: "Not publicly disclosed"
+        # Federal Employer Identification Number or equivalent
+      - term: "Registered Agent"
+        definition: "To be updated upon confirmation"
+      - term: "Registered Office"
+        definition: "131 Continental Dr Suite 305, Newark, DE 19713, United States"
+
+  - type: "definition-list"
+    label: "Operational Details"
+    items:
+      - term: "Operating Name"
+        definition: "Same as legal name"
+        # Leave blank or "Same as legal name" if no DBA
+      - term: "Principal Place of Business"
+        definition: "131 Continental Dr Suite 305, Newark, DE 19713, United States"
+      - term: "Business Status"
+        definition: "Active"
+        # Example: Active / Inactive / Dissolved
+      - term: "Fiscal Year End"
+        definition: "December 31"
+        # Example: December 31

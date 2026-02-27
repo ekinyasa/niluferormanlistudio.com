@@ -1,0 +1,44 @@
+# contact.yml
+# Contact page content
+# Nilüfer Ormanlı Studio LLC
+
+meta:
+  title: "Contact"
+  description: "Contact information for Nilüfer Ormanlı Studio LLC, including official business email and mailing address."
+
+sections:
+
+  - type: "page-header"
+    heading: "Contact"
+
+  - type: "contact-block"
+    label: "General Inquiries"
+    items:
+      - method: "Email"
+        value: "hello@niluferormanli.studio"
+        href: "mailto:hello@niluferormanli.studio"
+        # Primary business contact email
+
+      - method: "Mailing Address"
+        value: "131 Continental Dr Suite 305, Newark, DE 19713, United States"
+        href: ""
+        # Full mailing address, if publicly available.
+        # Leave value blank or "Not disclosed" if not applicable.
+
+      - method: "Website"
+        value: "www.niluferormanli.com"
+        href: "https://niluferormanli.com"
+
+  - type: "text-block"
+    label: "Response Policy"
+    body: |
+      "Email inquiries are reviewed during standard business hours. 
+      Responses are typically provided within 3–5 business days. 
+      
+      For urgent matters, please indicate the nature of your inquiry in the subject line. We appreciate your interest in Nilüfer Ormanlı Studio LLC and will do our best to assist you."
+
+
+  - type: "link"
+    label: "Visit Official Website"
+    url: "www.niluferormanli.com"
+    external: true

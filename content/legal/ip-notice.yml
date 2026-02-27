@@ -1,0 +1,87 @@
+# legal/ip-notice.yml
+# Intellectual Property Notice
+# Nilüfer Ormanlı Studio LLC
+
+meta:
+  title: "Intellectual Property Notice"
+  description: "Intellectual Property Notice for Nilüfer Ormanlı Studio LLC."
+
+sections:
+
+  - type: "back-link"
+    label: "Legal"
+    url: "/legal/"
+
+  - type: "page-header"
+    heading: "Intellectual Property Notice"
+
+  - type: "legal-document"
+    last_updated: "January 1, 2026"
+    body: |
+      <h2>1. Ownership</h2>
+      <p>
+        All intellectual property rights in and to the content of this Site — including
+        but not limited to text, graphics, logos, photographs, software, and data — are
+        owned by or licensed to Nilüfer Ormanlı Studio LLC, unless otherwise indicated.
+      </p>
+
+      <h2>2. Copyright</h2>
+      <p>
+        &copy; 2026 Nilüfer Ormanlı Studio LLC. All rights reserved.
+      </p>
+      <p>
+        No content from this Site may be reproduced, distributed, transmitted, displayed,
+        published, or broadcast without the prior written consent of Nilüfer Ormanlı
+        Studio LLC, except as permitted under applicable copyright law.
+      </p>
+
+      <h2>3. Trademarks</h2>
+      <p>
+        The name "Nilüfer Ormanlı Studio LLC" and any associated logos or service marks
+        are the property of Nilüfer Ormanlı Studio LLC. Nothing on this Site grants any
+        licence or right to use any trademark without prior written consent.
+      </p>
+      <p>
+        Nilüfer Ormanlı Studio LLC is the owner of the name and associated branding used on this website.
+        No registered trademarks are currently claimed unless otherwise stated.
+      </p>
+      <!-- List specific registered or unregistered marks if applicable. -->
+
+      <h2>4. Permitted Use</h2>
+      <p>
+        You may view, print, or download content from this Site solely for your own
+        personal, non-commercial use, provided that you:
+      </p>
+      <ul>
+        <li>Do not remove any copyright, trademark, or other proprietary notices</li>
+        <li>Do not modify the content in any way</li>
+        <li>Do not use the content for commercial purposes without prior written consent</li>
+      </ul>
+
+      <h2>5. Third-Party Intellectual Property</h2>
+      <p>
+        This Site may reference or link to third-party intellectual property. Any such
+        references do not imply endorsement or affiliation. All third-party marks are
+        the property of their respective owners.
+      </p>
+
+      <h2>6. Reporting Infringement</h2>
+      <p>
+        If you believe any content on this Site infringes your intellectual property rights,
+        contact us with the following information:
+      </p>
+      <ul>
+        <li>A description of the copyrighted work you claim has been infringed</li>
+        <li>A description of the allegedly infringing content and its location on the Site</li>
+        <li>Your contact information</li>
+        <li>A statement that you have a good-faith belief that use of the material is unauthorised</li>
+        <li>A statement, under penalty of perjury, that the information in your notice is accurate</li>
+      </ul>
+
+      <h2>7. Contact</h2>
+      <p>
+        Intellectual property inquiries should be directed to:<br>
+        Nilüfer Ormanlı Studio LLC<br>
+        131 Continental Dr Suite 305, Newark, DE 19713, United States<br>
+        <a href="mailto:hello@niluferormanli.studio">hello@niluferormanli.studio</a>
+      </p>

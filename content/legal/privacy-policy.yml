@@ -1,0 +1,119 @@
+# legal/privacy-policy.yml
+# Privacy Policy document
+# Nilüfer Ormanlı Studio LLC
+
+meta:
+  title: "Privacy Policy"
+  description: "Privacy Policy for Nilüfer Ormanlı Studio LLC."
+
+sections:
+
+  - type: "back-link"
+    label: "Legal"
+    url: "/legal/"
+
+  - type: "page-header"
+    heading: "Privacy Policy"
+
+  - type: "legal-document"
+    last_updated: "January 1, 2026"
+    body: |
+      <h2>1. Introduction</h2>
+      <p>
+        Nilüfer Ormanlı Studio LLC ("<strong>Company</strong>," "<strong>we</strong>,"
+        "<strong>us</strong>," or "<strong>our</strong>") is committed to protecting your privacy.
+        This Privacy Policy explains how we collect, use, disclose, and safeguard information
+        in connection with our website located at niluferormanli.com
+        (the "<strong>Site</strong>").
+      </p>
+      <p>
+        By accessing or using the Site, you agree to the terms of this Privacy Policy.
+        If you do not agree, please do not use the Site.
+      </p>
+
+      <h2>2. Information We Collect</h2>
+      <h3>Information You Provide</h3>
+      <p>
+        We may collect information you voluntarily provide when you contact us, including:
+      </p>
+      <ul>
+        <li>Name and contact information (e.g., email address)</li>
+        <li>The content of your communications with us</li>
+        <li>If you contact us via email, we may receive personal information that you voluntarily provide, including your name, email address, and any information contained in your message.</li>
+      </ul>
+
+      <h3>Information Collected Automatically</h3>
+      <p>
+        When you visit the Site, certain information may be collected automatically, including:
+      </p>
+      <ul>
+        <li>IP address and approximate geographic location</li>
+        <li>Browser type and version</li>
+        <li>Pages viewed and time spent on the Site</li>
+        <li>Referring URL</li>
+        <li>This website uses analytics and tracking technologies, including Google Analytics and Meta Pixel. These tools may automatically collect information such as IP address, device type, browser information, pages visited, and interaction data.</li>
+      </ul>
+
+      <h2>3. Use of Information</h2>
+      <p>We use the information we collect to:</p>
+      <ul>
+        <li>Respond to inquiries and communications</li>
+        <li>Operate and maintain the Site</li>
+        <li>Comply with legal obligations</li>
+        <li>Collected data is used for website analytics, performance monitoring, and general audience measurement. Data may also be used to evaluate traffic sources and site functionality.</li>
+      </ul>
+
+      <h2>4. Disclosure of Information</h2>
+      <p>
+        We do not sell, trade, or rent your personal information to third parties.
+        We may disclose information in the following circumstances:
+      </p>
+      <ul>
+        <li>As required by law or in response to valid legal process</li>
+        <li>To protect the rights, property, or safety of the Company, its personnel, or the public</li>
+        <li>To service providers acting on our behalf, subject to appropriate confidentiality obligations</li>
+        <li>Data collected through analytics tools may be processed by their respective service providers in accordance with their own privacy policies. If you navigate to third-party websites, their data practices apply independently.</li>
+      </ul>
+
+      <h2>5. Data Retention</h2>
+      <p>
+        We retain personal information only for as long as necessary to fulfil the purposes
+        described in this Privacy Policy, or as required by applicable law.
+        Analytics data is retained in accordance with the settings and policies of the respective analytics providers. Email communications are retained as necessary for business recordkeeping purposes.
+      </p>
+
+      <h2>6. Your Rights</h2>
+      <p>
+        Depending on your jurisdiction, you may have rights including the right to access,
+        correct, or request deletion of your personal information. To exercise any applicable
+        rights, contact us at hello@niluferormanli.studio.
+      </p>
+      <p>Depending on your jurisdiction, you may have certain rights regarding access, correction, deletion, or restriction of your personal data. Requests may be submitted via the contact email listed on this website.</p>
+
+      <h2>7. Third-Party Links</h2>
+      <p>
+        The Site may contain links to third-party websites. This Privacy Policy does not apply
+        to those sites. We are not responsible for the privacy practices of third parties.
+      </p>
+
+      <h2>8. Security</h2>
+      <p>
+        We implement reasonable technical and organisational measures to protect information
+        against unauthorised access, disclosure, or destruction. No method of transmission
+        over the internet is completely secure.
+      </p>
+
+      <h2>9. Changes to This Policy</h2>
+      <p>
+        We may update this Privacy Policy from time to time. The date at the top of this page
+        reflects the most recent revision. Continued use of the Site after any changes
+        constitutes acceptance of the updated policy.
+      </p>
+
+      <h2>10. Contact</h2>
+      <p>
+        For questions or concerns regarding this Privacy Policy, contact us at:<br>
+        Nilüfer Ormanlı Studio LLC<br>
+        131 Continental Dr Suite 305, Newark, DE 19713, United States<br>
+        <a href="mailto:hello@niluferormanli.studio">hello@niluferormanli.studio</a>
+      </p>

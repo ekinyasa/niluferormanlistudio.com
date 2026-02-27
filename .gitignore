@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Node (varsa)
+node_modules/
+dist/
+build/
+
+# Env
+.env
+.env.local
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+.claude/

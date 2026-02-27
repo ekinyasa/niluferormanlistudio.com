@@ -1,0 +1,42 @@
+# management.yml
+# Management page content
+# Nilüfer Ormanlı Studio LLC
+
+meta:
+  title: "Management"
+  description: "Governance structure and management information for Nilüfer Ormanlı Studio LLC, a member-managed Delaware LLC."
+
+sections:
+
+  - type: "page-header"
+    heading: "Management"
+
+  - type: "text-block"
+    label: "Governance Structure"
+    body: |
+      Nilüfer Ormanlı Studio LLC is a member-managed limited liability company.
+      All management authority and operational decisions are exercised by its sole member.
+
+  - type: "persons"
+    label: "Key Personnel"
+    items:
+      - name: "Nilüfer Ormanlı"
+        title: "Managing Member"
+  
+        bio: >
+          Nilüfer Ormanlı serves as the Managing Member of the company.
+          She oversees strategic direction, creative production, and intellectual property management.
+          Her professional background includes long-term engagement in music production and interdisciplinary creative work.
+       
+
+  - type: "definition-list"
+    label: "Management Details"
+    items:
+      - term: "Management Type"
+        definition: "Member-managed"
+      - term: "Number of Members"
+        definition: "1 (single-member)"
+
+      - term: "Operating Agreement"
+        definition: "Executed 2026"
+

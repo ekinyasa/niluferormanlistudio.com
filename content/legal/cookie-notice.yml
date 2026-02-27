@@ -1,0 +1,79 @@
+# legal/cookie-notice.yml
+# Cookie Notice document
+# Nilüfer Ormanlı Studio LLC
+
+meta:
+  title: "Cookie Notice"
+  description: "Cookie Notice for Nilüfer Ormanlı Studio LLC."
+
+sections:
+
+  - type: "back-link"
+    label: "Legal"
+    url: "/legal/"
+
+  - type: "page-header"
+    heading: "Cookie Notice"
+
+  - type: "legal-document"
+    last_updated: "March 1, 2026"
+    body: |
+      <h2>1. What Are Cookies</h2>
+      <p>
+        Cookies are small text files placed on your device by a website when you visit it.
+        They are widely used to make websites function efficiently and to provide information
+        to website operators.
+      </p>
+
+      <h2>2. Cookies We Use</h2>
+      <p>
+        The Site at www.niluferormanli.com uses the following types of cookies:
+      </p>
+
+      <h3>Strictly Necessary Cookies</h3>
+      <p>
+        These cookies are required for the Site to function and cannot be disabled.
+        They are typically set in response to actions you take, such as navigating the Site.
+      </p>
+
+      <h3>Analytics Cookies</h3>
+      <p>
+        This website uses analytics and tracking technologies, including Google Analytics and Meta Pixel.
+        These tools may place cookies or similar technologies on your device to collect information
+        about website usage, traffic sources, and general interaction patterns.
+      </p>
+
+      <h2>3. Third-Party Cookies</h2>
+      <p>
+        Cookies may be set by third-party service providers that support analytics and tracking functions.
+        These providers process data according to their respective privacy policies.
+        <!-- Example:
+        Certain third-party services embedded in or linked from the Site may place
+        their own cookies on your device. We do not control these cookies and encourage
+        you to review the privacy policies of those services. -->
+      </p>
+
+      <h2>4. Managing Cookies</h2>
+      <p>
+        You can control and manage cookies through your browser settings. Most browsers
+        allow you to refuse cookies or to alert you when cookies are being sent. Note that
+        disabling certain cookies may affect the functionality of the Site.
+      </p>
+      <p>
+        For more information on managing cookies, refer to your browser's help documentation
+        or visit <a href="https://www.allaboutcookies.org" target="_blank" rel="noopener noreferrer">allaboutcookies.org</a>.
+      </p>
+
+      <h2>5. Changes to This Notice</h2>
+      <p>
+        This Cookie Notice may be updated periodically. The date at the top of this page
+        reflects the most recent revision.
+      </p>
+
+      <h2>6. Contact</h2>
+      <p>
+        For questions regarding this Cookie Notice, contact:<br>
+        Nilüfer Ormanlı Studio LLC<br>
+        131 Continental Dr Suite 305, Newark, DE 19713, United States<br>
+        <a href="mailto:hello@niluferormanli.studio">hello@niluferormanli.studio</a>
+      </p>
